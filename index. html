@@ -33,32 +33,32 @@
         <div class="product">
             <h2>bottle</h2>
             <p>Price: 1500rs</p>
-            <img src="img/bottle.png" width="200px" height="200px">
+            <img src="images/bottle.jpg" width="200px" height="200px">
             <button class="add-to-cart" onclick="addToCart('bottle', 1500)">Add to Cart</button>
         </div>
 
         <div class="product">
             <h2>hand bag</h2>
             <p>Price: 500rs</p>
-            <img src="img/hand bag.png" width="200px" height="200px">
+            <img src="images/hand bag.jpg" width="200px" height="200px">
             <button class="add-to-cart" onclick="addToCart('hand bag', 500)">Add to Cart</button>
         </div>
         <div class="product">
             <h2>bracelet</h2>
             <p>Price: 900rs</p>
-            <img src="img/bracelet.png" width="200px" height="200px">
+            <img src="images/bracelet.jpg" width="200px" height="200px">
             <button class="add-to-cart" onclick="addToCart('bracelet', 900)">Add to Cart</button>
         </div>
         <div class="product">
             <h2>shirt</h2>
             <p>Price:197rs</p>
-            <img src="img/shirt.png" width="200px" height="200px">
+            <img src="images/shirt.jpg" width="200px" height="200px">
             <button class="add-to-cart" onclick="addToCart('shirt', 1000)">Add to Cart</button>
         </div>
         <div class="product">
             <h2>book</h2>
             <p>Price: 700rs</p>
-            <img src="img/book.png" width="200px" height="200px" >
+            <img src="images/book.jpg" width="200px" height="200px" >
             <button class="add-to-cart" onclick="addToCart('book', 700)">Add to Cart</button>
         </div>
     	</div>
