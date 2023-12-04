@@ -39,32 +39,32 @@
         <div class="product">
             <h2>bottle</h2>
             <p>Price: $20</p>
-            <img src="bottle.jpeg"><hight="50px"></hight><width="50px"></width>
+            <img src="image/bottle.jpeg"><hight="50px"></hight><width="50px"></width>
             <button class="add-to-cart" onclick="addToCart('bottle', 100)">Add to Cart</button>
         </div>
         <div class="product">
             <h2>hand bag</h2>
             <p>Price: $150</p>
-            <img src="hand bag.jpeg"><hight="50px"></hight><width="50px"></width>
+            <img src="image/hand bag.jpeg"><hight="50px"></hight><width="50px"></width>
             <button class="add-to-cart" onclick="addToCart('hand bag', 150)">Add to Cart</button>
         </div>
         <div class="product">
             <h2>bracelet</h2>
             <p>Price: $200</p>
-            <img src="bracelet.jpeg"><hight="50px"></hight><width="50px"></width>
+            <img src="image/bracelet.jpeg"><hight="50px"></hight><width="50px"></width>
             <button class="add-to-cart" onclick="addToCart('bracelet', 200)">Add to Cart</button>
         </div>
 
         <div class="product">
             <h2>shirt</h2>
             <p>Price: $100</p>
-            <img src="shirt.jpeg"><hight="50px"></hight><width="50px"></width>
+            <img src="image/shirt.jpeg"><hight="50px"></hight><width="50px"></width>
             <button class="add-to-cart" onclick="addToCart('shirt', 100)">Add to Cart</button>
         </div>
         <div class="product">
             <h2>book</h2>
             <p>Price: $10</p>
-            <img src="book.jpeg"><hight="50px"></hight><width="50px"></width>
+            <img src="image/book.jpeg"><hight="50px"></hight><width="50px"></width>
             <button class="add-to-cart" onclick="addToCart('Product 1', 10)">Add to Cart</button>
         </div>
     	</div>
